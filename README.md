@@ -1,3 +1,3 @@
 # How-to-compile-the-markdown.
-一个Typora编译markdown的入门教程。
-You can also consult Tencent ID 546982075
+A primer on Typora compiling markdown.
+You can also consult Tencent ID 546982075.
